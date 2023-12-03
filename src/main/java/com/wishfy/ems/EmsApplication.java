@@ -11,8 +11,6 @@ public class EmsApplication {
 	public static void main(String[] args)
 
 	{
-		log.info("shubham");
-
 		log.info("EMS PROJECT FOR WISHFY UP AND RUNNING");
 		SpringApplication.run(EmsApplication.class, args);
 	}
